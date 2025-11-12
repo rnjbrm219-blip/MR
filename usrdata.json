@@ -19,7 +19,7 @@
     },
     {
         "device_id": "b45213c64f073d3e",
-        "key": "test1",
+        "key": "test",
         "expirydate": "15-11-2025",
         "Allowoffline": false
     },
@@ -38,6 +38,12 @@
     {
         "device_id": "54bf7a483e3f6d9f",
         "key": "test4",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b7601eefba2b569d",
+        "key": "test5",
         "expirydate": "15-11-2025",
         "Allowoffline": false
     }
