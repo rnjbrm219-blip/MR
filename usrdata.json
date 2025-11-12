@@ -16,5 +16,11 @@
         "key": "MR",
         "expirydate": "15-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b45213c64f073d3e",
+        "key": "test1",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
