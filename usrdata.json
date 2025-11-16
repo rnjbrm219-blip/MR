@@ -107,9 +107,15 @@
         "expirydate": "18-11-2025",
         "Allowoffline": false
     },
-  {
+    {
         "device_id": "52869d72bce87200",
         "key": "test17",
+        "expirydate": "18-11-2025",
+        "Allowoffline": false
+    },
+   {
+        "device_id": "5e3e2e709a60156f",
+        "key": "test18",
         "expirydate": "18-11-2025",
         "Allowoffline": false
   }
